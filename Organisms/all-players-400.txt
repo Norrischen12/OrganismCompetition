@@ -1,0 +1,47 @@
+================================================
+THE DESERT - p=.001; q=.002; v=30
+Trials: 400
+Player                    | Avg count (end) | Avg energy (end) | # extinctions | # successful cohabitations | Avg extinction time | Avg energy while alive | Avg population while alive
+organisms.g0.RandomPlayer |            0.00 |             0.00 |           400 |                          0 |               13.95 |                 242.21 |                       1.33
+organisms.g0.RandomPlayer |            0.00 |             0.00 |           400 |                          0 |               14.48 |                 240.57 |                       1.28
+organisms.g0.RandomPlayer |            0.00 |             0.00 |           400 |                          0 |               13.95 |                 241.07 |                       1.31
+
+================================================
+BIG DESERT - p=.001; q=.002; v=30
+Trials: 400
+Player                    | Avg count (end) | Avg energy (end) | # extinctions | # successful cohabitations | Avg extinction time | Avg energy while alive | Avg population while alive
+organisms.g0.RandomPlayer |            0.00 |             0.00 |           400 |                          0 |               14.18 |                 239.63 |                       1.31
+organisms.g0.RandomPlayer |            0.00 |             0.00 |           400 |                          0 |               13.83 |                 237.73 |                       1.34
+organisms.g0.RandomPlayer |            0.00 |             0.00 |           400 |                          0 |               13.95 |                 240.98 |                       1.32
+
+================================================
+RAINFOREST - p=0.1; q=0.2; v=10
+Trials: 400
+Player                    | Avg count (end) | Avg energy (end) | # extinctions | # successful cohabitations | Avg extinction time | Avg energy while alive | Avg population while alive
+organisms.g0.RandomPlayer |          130.19 |         49127.81 |             3 |                        397 |             2472.00 |               49936.77 |                     129.42
+organisms.g0.RandomPlayer |          129.42 |         48729.16 |             1 |                        399 |             3150.00 |               49451.13 |                     128.48
+organisms.g0.RandomPlayer |          138.00 |         52186.82 |             1 |                        399 |              947.00 |               52435.81 |                     135.81
+
+================================================
+DEFAULT - p=0.01; q=0.02; v=10
+Trials: 400
+Player                    | Avg count (end) | Avg energy (end) | # extinctions | # successful cohabitations | Avg extinction time | Avg energy while alive | Avg population while alive
+organisms.g0.RandomPlayer |           29.16 |          2440.35 |           267 |                          0 |              286.51 |                3058.59 |                      36.11
+organisms.g0.RandomPlayer |           31.09 |          2644.01 |           265 |                          0 |              277.94 |                3053.26 |                      36.08
+organisms.g0.RandomPlayer |           28.33 |          2391.75 |           273 |                          0 |              268.06 |                2932.93 |                      34.55
+
+================================================
+BIG DEFAULT - p=0.01; q=0.02; v=10
+Trials: 400
+Player                    | Avg count (end) | Avg energy (end) | # extinctions | # successful cohabitations | Avg extinction time | Avg energy while alive | Avg population while alive
+organisms.g0.RandomPlayer |          790.46 |         66681.00 |            81 |                        306 |              493.48 |              190315.66 |                    1150.03
+organisms.g0.RandomPlayer |          752.29 |         63073.80 |            89 |                        295 |              619.00 |              182074.51 |                    1097.77
+organisms.g0.RandomPlayer |          730.93 |         61480.48 |           100 |                        296 |              809.83 |              163087.41 |                    1018.21
+
+================================================
+BIG RAINFOREST - p=0.1; q=0.2; v=10
+Trials: 400
+Player                    | Avg count (end) | Avg energy (end) | # extinctions | # successful cohabitations | Avg extinction time | Avg energy while alive | Avg population while alive
+organisms.g0.RandomPlayer |         3312.54 |       1475026.97 |             0 |                        400 |                 NaN |             1446388.15 |                    3243.65
+organisms.g0.RandomPlayer |         3397.20 |       1512947.68 |             0 |                        400 |                 NaN |             1483383.44 |                    3326.33
+organisms.g0.RandomPlayer |         3287.60 |       1463799.03 |             0 |                        400 |                 NaN |             1435476.37 |                    3218.87

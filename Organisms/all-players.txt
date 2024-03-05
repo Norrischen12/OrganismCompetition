@@ -1,0 +1,41 @@
+================================================
+THE DESERT - p=.001; q=.002; v=30
+Trials: 100
+Player                     | Avg count (end) | Avg energy (end) | # extinctions | Avg extinction time | Avg energy while alive | Avg population while alive
+organisms.g0.RandomPlayer  |            0.00 |             0.00 |           100 |               14.17 |                 239.78 |                       1.30
+organisms.g1.FirstPlayer   |            0.00 |             0.00 |           100 |               18.98 |                 224.81 |                       0.02
+organisms.g2.RolePlayer    |            0.00 |             0.00 |           100 |               12.71 |                 221.57 |                       1.01
+organisms.g3.BasePlayer    |            2.02 |           354.68 |            93 |              592.73 |                1101.86 |                       5.56
+organisms.g4.InitialPlayer |            0.00 |             0.00 |           100 |                9.54 |                 241.84 |                       1.68
+organisms.g5.Cockroach     |            0.00 |             0.00 |           100 |               96.04 |                  75.97 |                       0.03
+organisms.g6.g6Player      |            0.00 |             0.00 |           100 |               27.20 |                 224.95 |                       0.16
+organisms.g7.PlayerG7      |            0.00 |             0.00 |           100 |               32.01 |                 110.00 |                       0.96
+organisms.g8.SamplePlayer  |            0.00 |             0.00 |           100 |               22.62 |                 235.69 |                       0.00
+
+================================================
+DEFAULT
+Trials: 100
+Player                     | Avg count (end) | Avg energy (end) | # extinctions | Avg extinction time | Avg energy while alive | Avg population while alive
+organisms.g0.RandomPlayer  |            0.00 |             0.00 |           100 |               48.83 |                 283.78 |                       3.20
+organisms.g1.FirstPlayer   |            0.00 |             0.00 |           100 |              541.66 |                2059.33 |                      10.76
+organisms.g2.RolePlayer    |            0.00 |             0.00 |           100 |               77.32 |                 257.10 |                       2.48
+organisms.g3.BasePlayer    |          159.59 |         21766.74 |             0 |                 NaN |               19360.05 |                     139.17
+organisms.g4.InitialPlayer |            0.00 |             0.00 |           100 |               24.86 |                 263.01 |                       3.79
+organisms.g5.Cockroach     |            0.00 |             0.00 |           100 |              265.38 |                 686.22 |                       6.18
+organisms.g6.g6Player      |            0.00 |             0.00 |           100 |             1490.14 |                2812.79 |                      14.79
+organisms.g7.PlayerG7      |            0.00 |             0.00 |           100 |              570.61 |                1177.83 |                       5.47
+organisms.g8.SamplePlayer  |            0.00 |             0.00 |           100 |              285.12 |                 984.53 |                      10.44
+
+================================================
+THE RAINFOREST - p=.1; q=.2
+Trials: 100
+Player                     | Avg count (end) | Avg energy (end) | # extinctions | Avg extinction time | Avg energy while alive | Avg population while alive
+organisms.g0.RandomPlayer  |            0.00 |             0.00 |           100 |              421.83 |                 984.89 |                       5.31
+organisms.g1.FirstPlayer   |            1.11 |           257.75 |            95 |             3195.05 |               11862.33 |                      47.70
+organisms.g2.RolePlayer    |            0.00 |             0.00 |           100 |              532.91 |                 977.76 |                       5.59
+organisms.g3.BasePlayer    |          242.61 |         36393.12 |             3 |             2873.67 |               33524.32 |                     216.76
+organisms.g4.InitialPlayer |            0.00 |             0.00 |           100 |              438.85 |                2063.49 |                      14.12
+organisms.g5.Cockroach     |            0.54 |            83.32 |            99 |              963.00 |                8675.18 |                      58.70
+organisms.g6.g6Player      |          110.84 |         19121.09 |            40 |             2155.70 |               11355.49 |                      64.12
+organisms.g7.PlayerG7      |            0.32 |            53.87 |            95 |             2833.95 |                5253.71 |                      24.76
+organisms.g8.SamplePlayer  |            0.00 |             0.00 |           100 |              855.71 |                6465.94 |                      35.05
